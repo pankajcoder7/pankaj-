@@ -1,4 +1,5 @@
 import { Github, Linkedin, Mail, Phone } from 'lucide-react';
+import profileImage from '../assets/images/profile.jpg';
 
 export default function Hero() {
   return (
@@ -48,11 +49,13 @@ export default function Hero() {
             </div>
           </div>
           <div className="relative">
-            <img
-              src="src\assets\481839240_1688668942045384_4546068097893802225_n.jpg"
-              alt="Developer workspace"
-              className="rounded-lg shadow-2xl" height={"600px"} width={"400px"}
-            />
+    <img
+  src={profileImage}
+  alt="Developer workspace"
+  className="rounded-lg shadow-2xl"
+  height="600px"
+  width="400px"
+/>
           </div>
         </div>
       </div>

@@ -13,7 +13,7 @@ export default function Projects() {
         "Iterative Refinement",
         "Project Export: Download your full website as a ZIP file."
       ],
-      github: "https://github.com/pankajcoder7/wesite-builder.git",
+      github: "https://github.com/pankajcoder7",
       demo: "https://sfs-frontend.vercel.app/"
     },
     {
@@ -28,7 +28,7 @@ export default function Projects() {
         "Queue System",
         "Drawing Board"
       ],
-      github: "https://github.com/pankajcoder7/media-sharing-app-master",
+      github: "https://github.com/pankajcoder7",
       demo: "https://mediasharing.dipu.pro/"
     }
   ];
