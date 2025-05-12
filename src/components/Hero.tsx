@@ -27,7 +27,7 @@ export default function Hero() {
                 <Linkedin size={24} />
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/pankajcoder7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-full bg-gray-50 text-gray-700 hover:bg-gray-100 transition-colors"
